@@ -8,7 +8,7 @@ Aşama sıralaması
 [2,6,16,22,18,27]
 [2,6,16,18,22,27]
 
-Big-o location: n+(n-1)+(n-2)+(n-3)+(n-4)+1
+Big-o: n+(n-1)+(n-2)+(n-3)+(n-4)+1: O(n2)
 
 Dizi sıralamasında 18 sayısı Worst Case kapsamında girer. 
 
